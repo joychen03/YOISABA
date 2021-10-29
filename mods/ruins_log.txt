@@ -1,0 +1,11 @@
+
+Loading excluded list from: C:\Users\cjf11\Desktop\YOISABA\world\DIM7
+No exclusions found for this world.
+
+Loading options from: C:\Users\cjf11\Desktop\YOISABA\world\DIM7
+tries_per_chunk_normal = 6
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+Ruins mod loaded successfully for world .\world\DIM7, template files: 32
+nLair, template files: 32
